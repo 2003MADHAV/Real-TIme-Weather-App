@@ -14,7 +14,7 @@ Today's Highlights: Stay informed about key weather highlights, including UV Ind
 Search Functionality: Easily search for weather updates in any location globally.
 
 ## Experience Real Time Weather App
-☂️ Explore the Real Time Weather App Demo: Click Here 🌈
+☂️ Explore the Real Time Weather App Demo: https://2003madhav.github.io/Real-TIme-Weather-App/  🌈
 
 
 
